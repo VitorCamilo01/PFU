@@ -1,4 +1,4 @@
-# [Plataforma de Feedback Unificado] - Projeto Final (Front-End)
+# Plataforma de Feedback Unificado - Projeto Final (Front-End)
 
 Repositório do projeto final da disciplina de **Tecnologias Web e Mobile** (2024.2) do curso de Engenharia de Computação da Universidade Federal de Uberlândia.
 
